@@ -175,4 +175,4 @@ parent: 一覽表
 
 | 相關連結 |
 | ------- |
-| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-debian-kde-plasma/read/config/keybind.html) |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-debian-xfce/read/config/keybind.html) |
