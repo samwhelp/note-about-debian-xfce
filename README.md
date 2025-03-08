@@ -22,6 +22,9 @@
 * [相關筆記](#相關筆記)
 
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-debian-xfce/read/cheatsheet/keybind.html)
+
+
 
 
 ## 微調腳本
