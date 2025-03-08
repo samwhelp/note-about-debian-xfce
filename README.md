@@ -9,6 +9,9 @@
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-debian-xfce/read/cheatsheet/keybind.html)
+
+
 
 
 ## 主題
@@ -20,9 +23,6 @@
 * [工具](https://samwhelp.github.io/note-about-debian/read/subject/tool.html)
 * [ISO](#iso)
 * [相關筆記](#相關筆記)
-
-
-> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-debian-xfce/read/cheatsheet/keybind.html)
 
 
 
